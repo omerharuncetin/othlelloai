@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\OthelloGameClever\OthelloGameClever\bin\Debug\OthelloGameClever.exe.config
+C:\Users\Hp\source\repos\OthelloGameClever\OthelloGameClever\bin\Debug\OthelloGameClever.exe
+C:\Users\Hp\source\repos\OthelloGameClever\OthelloGameClever\bin\Debug\OthelloGameClever.pdb
+C:\Users\Hp\source\repos\OthelloGameClever\OthelloGameClever\obj\Debug\OthelloGameClever.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\OthelloGameClever\OthelloGameClever\obj\Debug\OthelloGameClever.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\OthelloGameClever\OthelloGameClever\obj\Debug\OthelloGameClever.exe
+C:\Users\Hp\source\repos\OthelloGameClever\OthelloGameClever\obj\Debug\OthelloGameClever.pdb
